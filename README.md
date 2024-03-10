@@ -13,3 +13,5 @@ The topics of Nummerical Analysis Below:
   i)Three point method
   ii)Forward,Backword,Central Method of numerival differentiation(first order)
   iii)Second order Numerical differentiation
+4.Integration
+  i)Simpsons 1/3 rule
