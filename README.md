@@ -9,4 +9,6 @@ The topics of Nummerical Analysis Below:
   ii)Backward Interpolation
   iii)Newton Divide Difference
   iv)Lagrange interpolation
-3.Derivatives(three end point)
+3.Derivatives
+  i)Three point method
+  ii)Forward,Backword,Central Method
