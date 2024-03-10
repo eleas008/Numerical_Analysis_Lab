@@ -11,4 +11,5 @@ The topics of Nummerical Analysis Below:
   iv)Lagrange interpolation
 3.Derivatives
   i)Three point method
-  ii)Forward,Backword,Central Method
+  ii)Forward,Backword,Central Method of numerival differentiation(first order)
+  iii)Second order Numerical differentiation
