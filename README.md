@@ -15,3 +15,4 @@ The topics of Nummerical Analysis Below:
   iii)Second order Numerical differentiation
 4.Integration
   i)Simpsons 1/3 rule
+  ii)simpsons 3/8 rule
