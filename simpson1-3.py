@@ -17,6 +17,6 @@ def simpsons(exp,a,b,n):
 exp=input("Enter Expression: ")
 a=int(input("Lower limit: "))
 b=int(input("Upper limit: "))
-n=int(input("Number of division: "))
+n=int(input("Number of Intervals: "))
 result=simpsons(exp,a,b,n)
 print ("Integration: %f"%result)
